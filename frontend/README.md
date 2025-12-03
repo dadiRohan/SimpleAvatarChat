@@ -2,7 +2,7 @@
 
 ## Setup
 
-1. Run the server-side bot; see [README](../../server/README).
+1. Run the server-side bot; see [README](https://github.com/dadiRohan/3DAvatarChat/edit/main/server/README.md).
 
 2. Navigate to the `frontend` directory:
 
@@ -23,3 +23,4 @@ npm run dev
 ```
 
 5. Visit http://localhost:5173 in your browser.
+
